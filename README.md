@@ -1,2 +1,2 @@
 # Address
-324124124
+Public receive string
